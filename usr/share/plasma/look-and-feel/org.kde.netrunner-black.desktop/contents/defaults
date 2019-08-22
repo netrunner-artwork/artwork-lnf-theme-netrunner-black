@@ -2,7 +2,7 @@
 ColorScheme=NetrunnerBlack
 
 [kdeglobals][KDE]
-widgetStyle=kvantum
+widgetStyle=breeze
 SingleClick=false
 
 [kdeglobals][Icons]
